@@ -12,7 +12,7 @@ The goal of collecting this dataset is for **classification and clustering Techn
 
 ## Source of the Dataset:
 
-**The dataset was sourced from the kaggle website in this URL: **
+**The dataset was sourced from the kaggle website in this URL:**
 https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
 
 ## General Information:
