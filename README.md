@@ -1,26 +1,30 @@
 # Housing Prices Predictions
 We chose a topic about housing prices because of its great importance and direct impact on individuals and the economy. The real estate market is constantly changing, and analyzing the factors that affect home prices can provide valuable insights for buyers, sellers, and investors. Through **data mining**, we can use big data to extract useful information, predicting how the prices of various properties will change by examining their different features.
 
-Problem:
+## Problem:
+
 Our project focuses on predicting how the prices of various properties will change by examining their different features. We aim to provide useful information that will help both consumers and realtors understand whether property prices are likely to rise, fall, or stay the same based on the specific characteristics of each property.
 
+## Goal of Collecting this Dataset:
 
-Goal of Collecting this Dataset:
 The goal of collecting this dataset is for classification and clustering Techniques to identify patterns and group properties based on their features to predict price, such as area, number of bedrooms, bathrooms, and amenities, as well as to classify properties by their furnishing status and other characteristics for more detailed analysis of the housing market.
 
 
-Source of the Dataset:
+## Source of the Dataset:
+
 The dataset was sourced from the kaggle website in this URL: 
 https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
 
-General Information:
+## General Information:
+
 •	Number of columns: 13
 
 •	Number of rows:  545
 
 •	Type of Attributes: Numeric, Symmetric Binary, Ordinal.
 
-About Dataset:
+## About Dataset:
+
 •	Price: The price of the house.
 
 •	Area: The total area of the house in square feet.
